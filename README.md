@@ -1,5 +1,5 @@
 # Resume  
-简历是fork的[张秋怡的博客](https://github.com/joyeecheung/resume]),在这个基础上更改了一些代码样式，删除了jade模板里一些代码  
+简历是fork的[张秋怡的博客](https://github.com/joyeecheung/resume),在这个基础上更改了一些代码样式，删除了jade模板里一些代码  
 
 # 构建  
 * 运行intall npm安装独立的依赖 
