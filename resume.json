@@ -27,17 +27,6 @@
     "url": "static/joyeecheung.pdf"
 
   }],
-  "education": [{
-    "type": "undergraduate",
-    "name": "中山大学",
-    "major": "软件工程",
-    "start": "2012",
-    "end": "2016",
-    "honor": [
-      "2012 - 2013 学年度校**三等奖学金**",
-      "2013 - 2014 学年度校**一等奖学金**"
-    ]
-  }],
   "language": [{
     "type": "english",
     "description": [
