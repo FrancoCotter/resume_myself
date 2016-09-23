@@ -1,4 +1,5 @@
 @qrcode-size: 130px;
+
 .header-qrcode .qrcode-img {
     width: @qrcode-size;
     height: @qrcode-size;
@@ -7,8 +8,8 @@
 header {
     .float-container();
     padding-bottom: @padding-base-vertical;
-    background-color: white;
-    color: #000;
+    background-color: @text-color;
+    color: white;
 }
 
 .title {
@@ -29,7 +30,7 @@ header {
 
 .title h1 {
     padding: @padding-small-vertical 0;
-    color: #000;
+    color: white;
 }
 
 .title h2 {
@@ -66,7 +67,7 @@ header .contact li {
 }
 
 header a:link, header a:visited {
-    color: #000;
+    color: white;
 }
 
 header a:hover, header a:active {
